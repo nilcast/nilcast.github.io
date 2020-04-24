@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NilCast 个人文章</title>
+    <link>https://nilcast.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%80%E7%BA%A7/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
+    <description>Recent content on NilCast 个人文章</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    
+	<atom:link href="https://nilcast.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%80%E7%BA%A7/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
