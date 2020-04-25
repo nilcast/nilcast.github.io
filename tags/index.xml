@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on NilCast 个人文章</title>
+    <title>Tags on 文章中心</title>
     <link>https://nilcast.github.io/tags/</link>
-    <description>Recent content in Tags on NilCast 个人文章</description>
+    <description>Recent content in Tags on 文章中心</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Apr 2020 21:31:45 +0800</lastBuildDate>
     
 	<atom:link href="https://nilcast.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>base</title>
+      <link>https://nilcast.github.io/tags/base/</link>
+      <pubDate>Fri, 24 Apr 2020 21:31:45 +0800</pubDate>
+      
+      <guid>https://nilcast.github.io/tags/base/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

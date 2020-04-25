@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>编程工具s on 文章中心</title>
+    <link>https://nilcast.github.io/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 编程工具s on 文章中心</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Apr 2020 21:31:45 +0800</lastBuildDate>
+    
+	<atom:link href="https://nilcast.github.io/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://nilcast.github.io/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/vim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nilcast.github.io/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/vim/</guid>
+      <description>Hello </description>
+    </item>
+    
+  </channel>
+</rss>

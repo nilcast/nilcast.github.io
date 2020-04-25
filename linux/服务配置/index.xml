@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>文章中心</title>
-    <link>https://nilcast.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%80%E7%BA%A7/%E6%96%87%E5%AD%97%E5%A4%84%E7%90%86/</link>
+    <link>https://nilcast.github.io/linux/%E6%9C%8D%E5%8A%A1%E9%85%8D%E7%BD%AE/</link>
     <description>Recent content on 文章中心</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://nilcast.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%80%E7%BA%A7/%E6%96%87%E5%AD%97%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nilcast.github.io/linux/%E6%9C%8D%E5%8A%A1%E9%85%8D%E7%BD%AE/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

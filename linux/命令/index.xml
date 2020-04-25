@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文章中心</title>
+    <link>https://nilcast.github.io/linux/%E5%91%BD%E4%BB%A4/</link>
+    <description>Recent content on 文章中心</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Apr 2020 21:31:45 +0800</lastBuildDate>
+    
+	<atom:link href="https://nilcast.github.io/linux/%E5%91%BD%E4%BB%A4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>解压缩工具</title>
+      <link>https://nilcast.github.io/linux/%E5%91%BD%E4%BB%A4/%E8%A7%A3%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Fri, 24 Apr 2020 21:31:45 +0800</pubDate>
+      
+      <guid>https://nilcast.github.io/linux/%E5%91%BD%E4%BB%A4/%E8%A7%A3%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
