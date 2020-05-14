@@ -6,7 +6,6 @@
     <description>Recent content on 文章中心</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2020 21:31:45 +0800</lastBuildDate>
     
 	<atom:link href="https://nilcast.github.io/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/vscode/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +13,10 @@
     <item>
       <title>VSCode 常用插件</title>
       <link>https://nilcast.github.io/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/vscode/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6/</link>
-      <pubDate>Fri, 24 Apr 2020 21:31:45 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nilcast.github.io/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/vscode/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6/</guid>
-      <description></description>
+      <description> Auto Close Tag Auto Rename Tag Auto-Open Markdown Preview Bracket Pair Colorizer Code Runner HTML CSS Support indent-rainbow JavaScript(Es6) code snippets Live Server Prettier Rainbow CSV REST Client SynthWave&#39;84  </description>
     </item>
     
   </channel>

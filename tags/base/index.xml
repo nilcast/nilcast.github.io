@@ -6,10 +6,27 @@
     <description>Recent content in base on 文章中心</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2020 21:31:45 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 17:01:16 +0800</lastBuildDate>
     
 	<atom:link href="https://nilcast.github.io/tags/base/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>需要掌握的函数</title>
+      <link>https://nilcast.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%80%E7%BA%A7/%E7%94%B5%E5%AD%90%E8%A1%A8%E6%A0%BC/%E9%9C%80%E8%A6%81%E6%8E%8C%E6%8F%A1%E7%9A%84%E5%87%BD%E6%95%B0/</link>
+      <pubDate>Fri, 08 May 2020 17:01:16 +0800</pubDate>
+      
+      <guid>https://nilcast.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%80%E7%BA%A7/%E7%94%B5%E5%AD%90%E8%A1%A8%E6%A0%BC/%E9%9C%80%E8%A6%81%E6%8E%8C%E6%8F%A1%E7%9A%84%E5%87%BD%E6%95%B0/</guid>
+      <description>Sum 求和函数
+格式: sum(单元格,区域,..)
+百度百科
+ Average 求平均值函数
+格式: average(单元格,区域,..)
+百度百科
+Count  COUNT函数，用于Excel中对给定数据集合或者单元格区域中数据的个数进行计数，其语法结构为COUNT(value1,value2, &amp;hellip;)。COUNT函数只能对数字数据进行统计，对于空单元格、逻辑值或者文本数据将被忽略，因此可以利用该函数来判断给定的单元格区域中是否包含空单元格。
+格式: count(单元格,区域,...)
+Max  Min  IF  Rank  Mode  Countif  Sumif  </description>
+    </item>
     
     <item>
       <title>区位码</title>
