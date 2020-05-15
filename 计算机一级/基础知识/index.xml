@@ -5,19 +5,30 @@
     <link>https://nilcast.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%80%E7%BA%A7/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
     <description>Recent content on 文章中心</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-CN</language>
     <lastBuildDate>Fri, 24 Apr 2020 21:31:45 +0800</lastBuildDate>
     
 	<atom:link href="https://nilcast.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%80%E7%BA%A7/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>区位码</title>
-      <link>https://nilcast.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%80%E7%BA%A7/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8C%BA%E4%BD%8D%E7%A0%81/</link>
+      <title>区位码国标码内码</title>
+      <link>https://nilcast.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%80%E7%BA%A7/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8C%BA%E4%BD%8D%E7%A0%81%E5%9B%BD%E6%A0%87%E7%A0%81%E5%86%85%E7%A0%81/</link>
       <pubDate>Fri, 24 Apr 2020 21:31:45 +0800</pubDate>
       
-      <guid>https://nilcast.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%80%E7%BA%A7/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8C%BA%E4%BD%8D%E7%A0%81/</guid>
-      <description></description>
+      <guid>https://nilcast.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%80%E7%BA%A7/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8C%BA%E4%BD%8D%E7%A0%81%E5%9B%BD%E6%A0%87%E7%A0%81%E5%86%85%E7%A0%81/</guid>
+      <description>国标码 汉字国标码，创建于1980年，目的为了使每个汉字有一个全国统一的代码而颁布了汉字编码的国家标准。每个汉字有个二进制编码，叫汉字国标码。 在我国汉字代码标准GB2312-80中有6763个常用汉字规定了二进制编码。
+每个汉字有个二进制编码，叫汉字国标码。
+在我国汉字代码标准GB2312-80中有6763个常用汉字规定了二进制编码。
+每个汉字使用2个字节。最高位为0
+GB2312-80 GB2312将代码表分为94个区，对应第一字节；每个区94个位，对应第二字节，两个字节的值分别为区号值和位号值加32（20H）。01-09区为符号、数字区，16-87区为汉字区，10-15区、88-94区是有待进一步标准化的空白区。GB2312将收录的汉字分成两级：第一级是常用汉字计 3755个，置于16-55区，按汉语拼音字母/笔形顺序排列；第二级汉字是次常用汉字计3008个，置于56-87区，按部首/笔画顺序排列。故而 GB2312最多能表示6763个汉字。
+区位码 94行为区， 94列为位
+1－9区为特殊字符
+10－55为一级汉字
+56－87为二级汉字
+区位码转换为国标码 区位码是一个4位十进制数， 国标码是4位十六进制数。
+区位码 先转换为 16进制， 再加上20H，跳过前面的特殊字符， 就是国标码
+国标码和机内码 由于国标码是高位为0，二个字节的国标码和二个字符的ASC码会产生二义性，所以国标码不方便在电脑内存储，所以机内码就是把国标码最高位变为1，来区分ASCII码，和在电脑内进行存储和识别汉字。</description>
     </item>
     
     <item>
@@ -26,7 +37,12 @@
       <pubDate>Fri, 24 Apr 2020 21:27:32 +0800</pubDate>
       
       <guid>https://nilcast.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%80%E7%BA%A7/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/ascii/</guid>
-      <description></description>
+      <description>ASCII 全称为 American Standard Code for Information Interchange
+美国信息交换标准码
+用7位二进制表示一个字符，共有128个不同的编码值
+ASCII中有34个非图形字符(又称为控制字符)，其余94个为可打印字符
+这些字符大小到大排列，依次为 0－9， A-Z, a-z,且小写字母比大写字母的值大32
+在计算机内部用一个字节(8位)来存储一个ASCII码， 最高位为0</description>
     </item>
     
   </channel>

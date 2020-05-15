@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rank函数</title>
+    <title>区位码国标码内码</title>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -108,8 +108,24 @@
     </div>
     <div class="col-sm-9 col-xs-12 p-4">
     
-      <h2 class="mb-4 ">Rank函数</h2>
-      <article></article>
+      <h2 class="mb-4 ">区位码国标码内码</h2>
+      <article><h4 id="国标码">国标码</h4>
+<p>汉字国标码，创建于1980年，目的为了使每个汉字有一个全国统一的代码而颁布了汉字编码的国家标准。每个汉字有个二进制编码，叫汉字国标码。 在我国汉字代码标准GB2312-80中有6763个常用汉字规定了二进制编码。</p>
+<p>每个汉字有个二进制编码，叫汉字国标码。</p>
+<p>在我国汉字代码标准GB2312-80中有6763个常用汉字规定了二进制编码。</p>
+<p>每个汉字使用2个字节。最高位为0</p>
+<p>GB2312-80 GB2312将代码表分为94个区，对应第一字节；每个区94个位，对应第二字节，两个字节的值分别为区号值和位号值加32（20H）。01-09区为符号、数字区，16-87区为汉字区，10-15区、88-94区是有待进一步标准化的空白区。GB2312将收录的汉字分成两级：第一级是常用汉字计 3755个，置于16-55区，按汉语拼音字母/笔形顺序排列；第二级汉字是次常用汉字计3008个，置于56-87区，按部首/笔画顺序排列。故而 GB2312最多能表示6763个汉字。</p>
+<h4 id="区位码">区位码</h4>
+<p>94行为区， 94列为位</p>
+<p>1－9区为特殊字符</p>
+<p>10－55为一级汉字</p>
+<p>56－87为二级汉字</p>
+<h4 id="区位码转换为国标码">区位码转换为国标码</h4>
+<p>区位码是一个4位十进制数， 国标码是4位十六进制数。</p>
+<p>区位码 先转换为 16进制， 再加上20H，跳过前面的特殊字符， 就是国标码</p>
+<h4 id="国标码和机内码">国标码和机内码</h4>
+<p>由于国标码是高位为0，二个字节的国标码和二个字符的ASC码会产生二义性，所以国标码不方便在电脑内存储，所以机内码就是把国标码最高位变为1，来区分ASCII码，和在电脑内进行存储和识别汉字。</p>
+</article>
     </div>
 </div>
 
